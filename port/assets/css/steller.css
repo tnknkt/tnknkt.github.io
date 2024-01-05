@@ -6440,6 +6440,8 @@ a.close.disabled {
   opacity: 0.5;
 }
 
+
+
 .modal-header {
   display: -webkit-box;
   display: -webkit-flex;
@@ -11644,4 +11646,10 @@ pre {
 
 .section.bg-gray {
   background: white;
+}
+
+p.intro {
+  color: #333; /* เปลี่ยนสีตามที่คุณต้องการ */
+  font-size: 18px; /* ปรับขนาดฟอนต์ตามที่คุณต้องการ */
+  line-height: 1.5; /* ปรับระยะห่างระหว่างบรรทัดตามที่คุณต้องการ */
 }
