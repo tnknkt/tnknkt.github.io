@@ -11033,6 +11033,21 @@ pre {
   text-decoration: none;
 }
 
+.socials .social-item-medium {
+  border: 2px solid #000;
+  color: #000;
+}
+
+.socials .social-item-linkedin {
+  border: 2px solid #79A9F5;
+  color: #79A9F5;
+}
+
+.socials .social-item-github {
+  border: 2px solid #A16AE8;
+  color: #A16AE8;
+}
+
 .socials .social-item:hover {
   background: #ff7a57;
   color: #fff;
