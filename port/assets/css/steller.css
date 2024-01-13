@@ -7152,7 +7152,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: red !important;
+  background-color: #494f54 !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
